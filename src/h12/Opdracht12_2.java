@@ -10,7 +10,7 @@ public class Opdracht12_2 extends Applet {
 	public void init(){
 		
 		for (int i = 0; i < 25; i++) {
-			array[i] = new Button("#"+ (i));
+			array[i] = new Button("#" + (i));
 			add(array[i]);
 		}
 	}
