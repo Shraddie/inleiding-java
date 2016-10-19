@@ -15,7 +15,7 @@ public class Opdracht8_PraktijkOpdracht1 extends Applet {
 	Button keer;
 	
 	public void init() {
-		setSize(300, 30);
+		setSize(500, 50);
 		tekstvak = new TextField("", 5);
 		tekstvak2 = new TextField("", 5);
 		plus = new Button("+");
